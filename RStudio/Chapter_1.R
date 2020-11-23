@@ -1,0 +1,1 @@
+setwd("C:/Users/Lennart/OneDrive/Desktop/Master-Studium/1. Semester/08_BWL/03_Business Data Science/RStudio")
